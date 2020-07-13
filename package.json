@@ -1,0 +1,15 @@
+{
+  "name": "prettier",
+  "main": "./lib/inkdrop-prettier",
+  "version": "0.0.0",
+  "description": "Inkdrop plugin to integrate prettier",
+  "keywords": [],
+  "repository": "https://github.com/yaeda/inkdrop-prettier",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {
+    "prettier": "^2.0.5"
+  }
+}
