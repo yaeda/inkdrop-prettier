@@ -1,4 +1,4 @@
-# inkdrop-pretteir
+# inkdrop-prettier
 
 prettier integration for inkdrop
 
