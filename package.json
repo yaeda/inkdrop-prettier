@@ -1,7 +1,7 @@
 {
   "name": "prettier",
   "main": "./lib/inkdrop-prettier",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Inkdrop plugin to integrate prettier",
   "keywords": [],
   "repository": "https://github.com/yaeda/inkdrop-prettier",
