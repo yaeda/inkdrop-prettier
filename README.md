@@ -1,6 +1,6 @@
 # inkdrop-prettier
 
-[Prettier](https://prettier.io/) integration for inkdrop
+[Prettier](https://prettier.io/) integration for [Inkdrop](https://www.inkdrop.app/)
 
 ![inkdrop-prettier demo][demo_gif]
 
