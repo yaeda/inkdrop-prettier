@@ -19,8 +19,8 @@ jobs:
         uses: TriPSs/conventional-changelog-action@v3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-file: "false"
-          skip-on-empty: "true"
+          output-file: false
+          skip-on-empty: true
 
       - name: Create Draft Release
         uses: actions/create-release@v1
