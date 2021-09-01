@@ -1,6 +1,6 @@
 # inkdrop-prettier
 
-![Inkdrop Plugin Version](https://inkdrop-plugin-badge.vercel.app/api/version/prettier&style=flat) ![Inkdrop Plugin Downloads](https://inkdrop-plugin-badge.vercel.app/api/downloads/prettier&style=flat)
+![Inkdrop Plugin Version](https://inkdrop-plugin-badge.vercel.app/api/version/prettier?style=flat) ![Inkdrop Plugin Downloads](https://inkdrop-plugin-badge.vercel.app/api/downloads/prettier?style=flat)
 
 [Prettier](https://prettier.io/) integration for [Inkdrop](https://www.inkdrop.app/)
 
